@@ -1,16 +1,80 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Yuran</h1>
+<h3 align="center">Frontend Developer | UI/UX Enthusiast | Modern Web Applications</h3>
 
-<!--
-**shanirayuran-commits/shanirayuran-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I build modern, responsive and interactive web applications using <b>Next.js</b>, <b>React</b> and <b>Tailwind CSS</b>.
+I enjoy designing clean UI, improving performance, and creating real-world useful applications.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔥 Passionate about **Frontend Development & UI/UX**
+- ⚡ Building projects with **Next.js, React, Tailwind**
+- 🤖 Interested in **AI-powered web applications**
+- 📌 Focused on writing clean, scalable code
+- 🌍 Open to collaborations & freelance work
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,git,github,vscode,figma" />
+</p>
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shanirayuran-commits&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanirayuran-commits&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shanirayuran-commits&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Resume Scaler** | AI Resume Analyzer with ATS scoring and PDF export | Next.js, Tailwind |
+| **ZenX Organization** | Personal tech brand & development projects | GitHub |
+| **Portfolio Website** | Modern responsive portfolio website | React, Tailwind |
+
+---
+
+<p align="center">
+  <i>"Build clean. Build smart. Build modern."</i>
+</p>
