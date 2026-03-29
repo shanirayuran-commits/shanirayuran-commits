@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Yuran</h1>
+<h1 align="center">Hi, I'm Shanira Yuran</h1>
+
+<h3 align="center"> AKA SyE Tchaikovsky</h3>h3>
 <h3 align="center">Frontend Developer | UI/UX Enthusiast | Modern Web Applications</h3>
 
 <p align="center">
@@ -8,7 +10,7 @@ I enjoy designing clean UI, improving performance, and creating real-world usefu
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="https://t.me/Ofcsyexo" target="_blank">
@@ -30,7 +32,7 @@ I enjoy designing clean UI, improving performance, and creating real-world usefu
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
    - 🔥 Passionate about **Frontend Development & UI/UX**
    - ⚡ Building projects with **Next.js, React, Tailwind**
@@ -40,7 +42,7 @@ I enjoy designing clean UI, improving performance, and creating real-world usefu
 
 ---
 
-## 🛠 Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,git,github,vscode,figma" />
@@ -48,7 +50,7 @@ I enjoy designing clean UI, improving performance, and creating real-world usefu
 
 ---
 
-## 🔥 Contribution Streak
+###  Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shanirayuran-commits&theme=tokyonight&hide_border=true" />
@@ -56,7 +58,7 @@ I enjoy designing clean UI, improving performance, and creating real-world usefu
 
 ---
 
-## 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
