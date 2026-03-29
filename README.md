@@ -11,15 +11,15 @@ I enjoy designing clean UI, improving performance, and creating real-world usefu
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+  <a href="https://t.me/Ofcsyexo" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/swyuran.ca" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="_blank">
+  <a href="https://discordapp.com/users/sye73541" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 
@@ -32,11 +32,11 @@ I enjoy designing clean UI, improving performance, and creating real-world usefu
 
 ## 👨‍💻 About Me
 
-- 🔥 Passionate about **Frontend Development & UI/UX**
-- ⚡ Building projects with **Next.js, React, Tailwind**
-- 🤖 Interested in **AI-powered web applications**
-- 📌 Focused on writing clean, scalable code
-- 🌍 Open to collaborations & freelance work
+   - 🔥 Passionate about **Frontend Development & UI/UX**
+   - ⚡ Building projects with **Next.js, React, Tailwind**
+   - 🤖 Interested in **AI-powered web applications**
+   - 📌 Focused on writing clean, scalable code
+   - 🌍 Open to collaborations & freelance work
 
 ---
 
@@ -44,15 +44,6 @@ I enjoy designing clean UI, improving performance, and creating real-world usefu
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,git,github,vscode,figma" />
-</p>
-
----
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanirayuran-commits&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanirayuran-commits&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
