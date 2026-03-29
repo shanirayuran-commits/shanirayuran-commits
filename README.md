@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shanira Yuran</h1>
 
-<h3 align="center"> AKA SyE Tchaikovsky</h3>h3>
+<h3 align="center"> AKA SyE Tchaikovsky</h3>
 <h3 align="center">Frontend Developer | UI/UX Enthusiast | Modern Web Applications</h3>
 
 <p align="center">
