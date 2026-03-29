@@ -45,7 +45,7 @@ I enjoy designing clean UI, improving performance, and creating real-world usefu
 ###  Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,git,antigravity,vscode,figma,python,firebase,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,git,vscode,figma,python,firebase,docker,aws" />
 </p>
 
 ---
