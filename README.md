@@ -60,11 +60,7 @@ I enjoy designing clean UI, improving performance, and creating real-world usefu
 
 ###  Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Resume Scaler** | AI Resume Analyzer with ATS scoring and PDF export | Next.js, Tailwind |
-| **ZenX Organization** | Personal tech brand & development projects | GitHub |
-| **Portfolio Website** | Modern responsive portfolio website | React, Tailwind |
+<h3 align="center"> Coming SOON</h3>
 
 ---
 
